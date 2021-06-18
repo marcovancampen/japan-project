@@ -94,7 +94,7 @@
                 <!-- w-400 = width: 40rem (400px), mw-full = max-width: 100% -->
 
                 <div class="form-group">
-                    <label for="username" class="required">Password</label>
+                    <label for="username" class="required">username</label>
                     <input type="username" class="form-control" id="username" name="username" placeholder="username"
                            required="required">
                     <div class="form-text">
